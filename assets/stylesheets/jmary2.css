@@ -1,0 +1,42 @@
+
+
+p {
+  font-family: Arial, Verdana, sans-serif;
+  padding-left: 500px;
+}
+
+
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: none;
+}
+
+li {
+  float: right;
+  font-family: Arial, Verdana, sans-serif;
+  font-style: oblique;
+}
+
+li a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 6px 8px;
+  text-decoration: none;
+}
+
+li a:hover {
+  color: red;
+}
+
+body{
+  padding-left: 500px;
+}
+h1 {
+  font-family: Arial, Verdana, sans-serif;
+  font-weight: bold;
+}
